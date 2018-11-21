@@ -23,3 +23,6 @@ java -jar target/polling-news-feed-1.0-SNAPSHOT.jar
 
 * just running below class (possible from the IDE) is also possible to start the application
  src\main\java\com\javacode\App.java
+ 
+ 
+ ToDo: to add proper tests and exceptions treatment
